@@ -4,7 +4,7 @@
   "description": "Add models practice",
   "main": "index.js",
   "scripts": {
-    "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js"
+    "test": "node --experimental-vm-modules ./node_modules/jest/bin/jest.js"
   },
   "author": "David Malpica",
   "license": "ISC",
